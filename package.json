@@ -1,0 +1,11 @@
+{
+  "name": "scratch-ts-jest",
+  "version": "1.0.0",
+  "description": "creating a ts project from scratch with a jest test setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
